@@ -1,0 +1,52 @@
+body {
+    background-color: darkgray;
+}
+
+
+h1 {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+
+h1 + p {
+    background-color: blue ;
+    color: white;
+}
+
+
+h2 {
+    background-color: brown;
+    color: azure;
+}
+
+h2 + p {
+    background-color: azure;
+    color: blueviolet;
+}
+
+
+#item1 {
+    background-color: aliceblue;
+    color: black;
+}
+
+#item2 {
+    background-color: antiquewhite;
+    color: darkolivegreen;
+}
+
+#item3 {
+    background-color: aqua;
+    color: darkgreen;
+}
+
+#item4 {
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+#item5 {
+    background-color: chartreuse;
+    color: chocolate;
+}
